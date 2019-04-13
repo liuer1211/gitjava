@@ -1,7 +1,7 @@
 package com.user.model;
 
 public class UserModel {
-	private String name;
+	private String name;  //用户
 
 	public UserModel() {
 		super();
