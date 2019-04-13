@@ -5,7 +5,6 @@ public class UserModel {
 
 	public UserModel() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public String getName() {
